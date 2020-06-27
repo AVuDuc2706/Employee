@@ -1,0 +1,14 @@
+D:\Môn Học\Software Architecture\Project\Employee\Employee\bin\Debug\Employee.exe.config
+D:\Môn Học\Software Architecture\Project\Employee\Employee\bin\Debug\Employee.exe
+D:\Môn Học\Software Architecture\Project\Employee\Employee\bin\Debug\Employee.pdb
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Login.resources
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.exe
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.pdb
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Management.resources
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Bộ_Phận.resources
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Account.resources
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Attendance.resources
