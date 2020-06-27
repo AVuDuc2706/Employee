@@ -12,3 +12,4 @@ D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee
 D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Bộ_Phận.resources
 D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Account.resources
 D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Attendance.resources
+D:\Môn Học\Software Architecture\Project\Employee\Employee\obj\Debug\Employee.Salary.resources
